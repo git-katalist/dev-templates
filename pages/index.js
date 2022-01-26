@@ -10,46 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1>Welcome to Mmnandi Noodles</h1>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-          iaculis interdum leo, at vulputate ipsum varius et. Aenean mollis diam
-          lectus, pretium bibendum leo mollis at. Nulla pulvinar nisi non quam
-          sodales tincidunt. Maecenas et dictum augue. Etiam vitae ullamcorper
-          lectus, vitae ullamcorper lacus. Mauris a tristique magna. In nec
-          dolor felis. Etiam sit amet tortor rhoncus, ultrices leo id, fringilla
-          tellus. Class aptent taciti sociosqu ad litora torquent per conubia
-          nostra, per inceptos himenaeos. Donec nisi nisi, mollis id dictum nec,
-          consequat sit amet lectus. Aliquam id erat sem. In tortor quam,
-          condimentum sit amet erat a, fermentum facilisis mi. Nulla at felis
-          ligula. Proin facilisis nunc sagittis orci fringilla, quis dapibus
-          ligula commodo. Lorem ipsum dolor sit amet, consectetur adipiscing
-          elit. Cras nec nisl magna. Aenean luctus ipsum sit amet varius
-          vehicula. Aenean lacus libero, rhoncus aliquet sem eu, pellentesque
-          maximus leo. Quisque tristique erat eget tellus eleifend, ut posuere
-          ex cursus. In eu dolor elit. Aenean volutpat lectus ut nisl fringilla,
-          ut placerat dui ultricies. Aliquam erat volutpat. Nullam fermentum ac
-          ipsum malesuada tempor. Maecenas accumsan, mi quis sollicitudin
-          vehicula, ligula nisi vehicula felis, ac tristique est sem id diam.
-          Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-          posuere cubilia curae; Pellentesque ut imperdiet sem. Duis eleifend,
-          ligula nec tempor dignissim, mauris nunc interdum leo, finibus
-          scelerisque risus neque quis augue. Maecenas mauris nunc, vulputate
-          sed rutrum ac, facilisis vel dui. Nulla accumsan mauris vitae
-          hendrerit auctor. Suspendisse potenti. Cras vitae cursus enim. Vivamus
-          porttitor diam tortor, non fermentum mauris sollicitudin et. Interdum
-          et malesuada fames ac ante ipsum primis in faucibus. Quisque nec urna
-          vitae erat malesuada consectetur. Aliquam libero magna, convallis vel
-          risus sed, egestas vehicula ipsum. Donec accumsan mollis fermentum.
-          Maecenas non nunc iaculis ligula faucibus varius quis non ex. Quisque
-          rhoncus dui erat, iaculis rhoncus ipsum ullamcorper vitae. Aliquam vel
-          congue ligula. Praesent a ex eu urna finibus tincidunt. Donec id
-          ullamcorper nunc, et porta magna. Vivamus at quam enim. In sed augue
-          nibh. Donec a massa enim. Pellentesque maximus malesuada volutpat.
-          Nullam cursus mollis est, eget sollicitudin diam aliquet eu. Nulla non
-          leo nulla. Nullam ornare eget diam non rutrum. Sed lorem nunc,
-          fringilla eu turpis quis, sodales blandit massa.
-        </p>
+        <h1>Welcome Katalist Development</h1>
       </main>
     </div>
   );
