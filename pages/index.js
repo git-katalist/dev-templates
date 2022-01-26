@@ -1,4 +1,3 @@
-import Footer from "@Components/footer/Footer";
 import Head from "next/head";
 import Image from "next/image";
 
